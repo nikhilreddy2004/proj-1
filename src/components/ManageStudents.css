@@ -1,0 +1,18 @@
+.student-list-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+.student-list-container ul {
+    list-style: none;
+    padding: 0;
+}
+.student-list-container li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.student-list-container li:last-child {
+    border-bottom: none;
+} 

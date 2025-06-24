@@ -1,0 +1,6 @@
+.location-picker-container {
+    margin-bottom: 20px;
+}
+.location-picker-container .leaflet-container {
+    height: 300px; /* A bit smaller for the form view */
+} 

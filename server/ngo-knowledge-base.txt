@@ -1,0 +1,21 @@
+# NGO Knowledge Base
+# Fill this file with information about your NGO. The chatbot will use this as its primary source of knowledge.
+
+## Our Mission
+Our mission is to provide quality education to underprivileged children across India. We believe that education is the key to breaking the cycle of poverty and empowering communities for a brighter future. We focus on holistic development, including academic, emotional, and social skills.
+
+## Volunteer Programs
+We have several programs for volunteers:
+- **Teaching Assistants:** Help in our classrooms and after-school programs. Requires a commitment of at least 5 hours per week.
+- **Content Creators:** Help develop educational materials, worksheets, and online content. Can be done remotely.
+- **Event Organizers:** Help plan and execute fundraising and community outreach events.
+
+To become a volunteer, please visit the Volunteers page on this website and select a location to express your interest.
+
+## Student Programs
+- **After-School Tutoring:** We provide free tutoring in subjects like Math, Science, and English.
+- **Digital Literacy:** We run workshops to teach basic computer skills, internet safety, and coding.
+- **Arts and Sports:** We believe in creative and physical development and offer various programs in these areas.
+
+## How to Contribute
+Apart from volunteering, you can contribute by donating. All donations are tax-exempt and go directly towards funding our educational programs, buying school supplies, and maintaining our facilities. Please contact our main office for donation details. 

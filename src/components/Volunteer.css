@@ -1,0 +1,60 @@
+.volunteer-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+/* --- Map Styles --- */
+.map-container {
+    margin-bottom: 20px;
+}
+
+.leaflet-container {
+    height: 350px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+/* --- Form and List Styles --- */
+.volunteer-form, .volunteer-list {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+
+.volunteer-form form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 400px;
+}
+
+.volunteer-form input,
+.volunteer-form button {
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+}
+
+.volunteer-form button {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.volunteer-list ul {
+    list-style: none;
+    padding: 0;
+}
+
+.volunteer-list li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.volunteer-list li:last-child {
+    border-bottom: none;
+} 

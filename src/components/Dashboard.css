@@ -1,0 +1,29 @@
+.dashboard-container {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+.anomaly-detector {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    background-color: #fffaf0;
+}
+
+.anomaly-detector h3 {
+    margin-top: 0;
+    color: #c0392b;
+}
+
+.anomaly-detector ul {
+    list-style: none;
+    padding: 0;
+}
+
+.anomaly-detector li {
+    padding: 8px;
+    border-bottom: 1px solid #f0e6d2;
+} 

@@ -1,0 +1,29 @@
+{
+    "Math": [
+        "Arithmetic Operations",
+        "Fractions and Decimals",
+        "Basic Algebra",
+        "Geometry Fundamentals",
+        "Percentages and Ratios"
+    ],
+    "Science": [
+        "The Human Body",
+        "Plants and Photosynthesis",
+        "The Solar System",
+        "States of Matter",
+        "Basic Chemistry"
+    ],
+    "English": [
+        "Grammar and Punctuation",
+        "Reading Comprehension",
+        "Vocabulary Building",
+        "Sentence Structure",
+        "Creative Writing"
+    ],
+    "History": [
+        "Ancient Civilizations",
+        "India's Freedom Struggle",
+        "World Wars",
+        "The Mughal Empire"
+    ]
+} 
